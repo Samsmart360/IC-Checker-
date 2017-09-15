@@ -1,0 +1,63 @@
+Datacycle for IC7400
+IPs are initialized
+OPs are initialized
+
+IPs activated
+0
+0
+0
+1
+Expected O/Ps : 0000
+Obtained O/Ps : 00013
+
+IPs activated
+0
+1
+0
+0
+Expected O/Ps : 1111
+Obtained O/Ps : 01001
+Datacycle for IC7402
+IPs are initialized
+OPs are initialized
+
+IPs activated
+0
+1
+1
+0
+Expected O/Ps : 1111
+Obtained O/Ps : 01102
+
+IPs activated
+0
+1
+0
+0
+Expected O/Ps : 0000
+Obtained O/Ps : 01003
+Datacycle for IC7404
+IPs are initialized
+OPs are initialized
+
+IPs activated
+0
+0
+0
+0
+0
+0
+Expected O/Ps : 000000
+Obtained O/Ps : 0000006
+
+IPs activated
+1
+1
+1
+1
+1
+1
+Expected O/Ps : 111111
+Obtained O/Ps : 1111116
+
+The IC is :IC7404
